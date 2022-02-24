@@ -1,2 +1,2 @@
-# cosmosmahma.github.io
+# cosmosmahama.github.io
 My-portifilio-site
